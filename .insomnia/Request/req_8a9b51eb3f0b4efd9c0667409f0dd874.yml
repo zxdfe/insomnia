@@ -1,0 +1,26 @@
+_id: req_8a9b51eb3f0b4efd9c0667409f0dd874
+type: Request
+parentId: wrk_354fa5822f81435eac684231fa7681be
+modified: 1668110151864
+created: 1668109690021
+url: https://api.github.com/repos/zxdfe/FE-Interview/issues
+name: /issues?labels={label}
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_7d4247a0ac94499b872442b287eafd2d
+    name: labels
+    value: css
+    description: ""
+    disabled: false
+headers: []
+authentication: {}
+metaSortKey: -1668109690021
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
